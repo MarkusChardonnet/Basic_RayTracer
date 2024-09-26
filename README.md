@@ -31,11 +31,13 @@ Make sure you have the following installed on your system:
     mkdir build
     cd build
     cmake ..
-    cmake --build build```
+    cmake --build build
+    ```
 
 ### Excecution
 
 Once built, you can run the program by executing:
 
     ```bash
-    ./MyRayTracer```
+    ./MyRayTracer
+    ```
