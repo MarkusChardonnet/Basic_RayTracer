@@ -37,6 +37,5 @@ Make sure you have the following installed on your system:
 
 Once built, you can run the program by executing:
 
-bash
-    ```
+    ```bash
     ./MyRayTracer```
