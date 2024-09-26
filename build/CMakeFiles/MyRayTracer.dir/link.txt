@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/MyRayTracer.dir/main.cpp.o CMakeFiles/MyRayTracer.dir/Image.cpp.o CMakeFiles/MyRayTracer.dir/Scene.cpp.o CMakeFiles/MyRayTracer.dir/utils.cpp.o CMakeFiles/MyRayTracer.dir/View.cpp.o CMakeFiles/MyRayTracer.dir/Vec3.cpp.o  -o MyRayTracer 

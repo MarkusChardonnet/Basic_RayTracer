@@ -1,0 +1,3 @@
+/home/tony/Projects/Basic_RayTracer/build/CMakeFiles/rebuild_cache.dir
+/home/tony/Projects/Basic_RayTracer/build/CMakeFiles/edit_cache.dir
+/home/tony/Projects/Basic_RayTracer/build/CMakeFiles/MyRayTracer.dir
